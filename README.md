@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-<pre style="background-color: violet"> <code> Code test </code> </pre>
+<div style="
+    background-color: blue;
+">
+<pre> <code> Code test </code> </pre>
   <p>I'm a paragraph</p>
  </div>
 
