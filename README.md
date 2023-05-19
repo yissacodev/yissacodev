@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+div{
+    color:red;
+}
+</style>
 
-<div style="
-    background-color: blue;
-">
+<div class="red">
 <pre> <code> Code test </code> </pre>
   <p>I'm a paragraph</p>
  </div>
