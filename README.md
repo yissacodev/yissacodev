@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<pre> <code> Code test </code> </pre>
+
+<pre style="background-color: violet"> <code> Code test </code> </pre>
