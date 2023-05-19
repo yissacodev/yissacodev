@@ -1,6 +1,6 @@
 <div style="width: 100%;">
   <a href="https://raw.githubusercontent.com/acosta032/acosta032/main/header.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="header.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
 
