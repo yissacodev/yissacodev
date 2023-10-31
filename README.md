@@ -1,5 +1,5 @@
 <div style="width: 100%;">    
-        <img src="./header.svg" style="width: 100%; pointer-events:none" alt="Click to see the source">
+        <img src="./assets/img/hero-git.png" style="width: 100%; pointer-events:none" alt="Click to see the source">
 </div>
 
 
