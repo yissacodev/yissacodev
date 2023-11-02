@@ -13,6 +13,7 @@ I am a versatilist developer and easily adapt to different programming areas lik
 ### 🔨 Languages and Tools:
 #### Frontend
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img align="left" src="./assets/img/html-planet.png" alt="HTML" width="100px"/> </a> 
+<a href="https://www.w3.org/Style/CSS/specs.en.html" target="_blank"> <img align="left" src="./assets/img/css-planet.png" alt="CSS" width="100px"/> </a> 
 
 <br><br>
 
