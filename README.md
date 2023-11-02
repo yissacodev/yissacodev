@@ -36,7 +36,7 @@ I am a versatilist developer and easily adapt to different programming areas lik
 <a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="./assets/img/mongo-dbdata.png" alt="MongoDB" width="10%"/> </a> 
 <a href="https://redis.io" target="_blank"> <img align="left" src="./assets/img/redis-dbdata.png" alt="Redis" width="10%"/> </a> 
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 #### UI/UX Design
 <a href="www.adobe.com" target="_blank"> <img align="left" src="./assets/img/ps-pencil.png" alt="´Photoshop" width="28%"/> </a> 
