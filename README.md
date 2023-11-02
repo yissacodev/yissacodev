@@ -16,13 +16,12 @@ I am a versatilist developer and easily adapt to different programming areas lik
 #### Backend
 
 #### Data
-<a href="https://www.mysql.com" target="_blank"> <img align="left" src="./assets/img/mysql-dbdata.png" alt="mysql" width="100px"/> </a> 
+<a href="https://www.mysql.com" target="_blank"> <img align="left" src="./assets/img/mysql-dbdata.png" alt="MySql" width="100px"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img align="left" src="./assets/img/posgtres-dbdata.png" alt="PostgreSQL" width="100px"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="./assets/img/mongo-dbdata.png" alt="MongoDB" width="100px"/> </a> 
+<a href="https://redis.io" target="_blank"> <img align="left" src="./assets/img/redis-dbdata.png" alt="Redis" width="100px"/> </a> 
 
-
-
-<br><br><br><br><br><br><br>
-
-
+<br><br><br><br><br>
 
 #### UI/UX Design
 
