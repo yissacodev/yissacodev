@@ -17,7 +17,7 @@ I am a versatilist developer and easily adapt to different programming areas lik
 
 #### Data
 <a href="https://www.mysql.com" target="_blank"> <img align="left" src="./assets/img/mysql-dbdata.png" alt="mysql" width="100px"/> </a> 
-
+<br>
 #### UI/UX Design
 
 
