@@ -20,9 +20,18 @@ I am a versatilist developer and easily adapt to different programming areas lik
 <a href="https://angular.io" target="_blank"> <img align="left" src="./assets/img/angular-planet.png" alt="Angular" width="100px"/> </a> 
 <a href="https://es.react.dev" target="_blank"> <img align="left" src="./assets/img/react-planet.png" alt="React" width="100px"/> </a> 
 
-<br><br>
+<br><br><br>
 
 #### Backend
+<a href="nodejs.org" target="_blank"> <img align="left" src="./assets/img/node-potion.png" alt="NodeJS" width="100px"/> </a> 
+
+<a href="https://spring.io" target="_blank"> <img align="left" src="./assets/img/spring-potion.png" alt="Spring" width="100px"/> </a> 
+
+<a href="https://www.php.net" target="_blank"> <img align="left" src="./assets/img/php-potion.png" alt="PHP" width="100px"/> </a> 
+
+<a href="https://laravel.com" target="_blank"> <img align="left" src="./assets/img/laravel-potion.png" alt="Laravel" width="100px"/> </a> 
+
+<br><br><br>
 
 #### Data
 <a href="https://www.mysql.com" target="_blank"> <img align="left" src="./assets/img/mysql-dbdata.png" alt="MySql" width="100px"/> </a> 
