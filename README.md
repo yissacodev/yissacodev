@@ -16,7 +16,8 @@ I am a versatilist developer and easily adapt to different programming areas lik
 #### Backend
 
 #### Data
-![My sql](./assets/img/mysql-dbdata.png)
+<a href="https://www.mysql.com" target="_blank"> <img align="left" src="./assets/img/mysql-dbdata.png" alt="mysql" width="100px"/> </a> 
+
 #### UI/UX Design
 
 
