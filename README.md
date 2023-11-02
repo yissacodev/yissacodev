@@ -15,6 +15,10 @@ I am a versatilist developer and easily adapt to different programming areas lik
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img align="left" src="./assets/img/html-planet.png" alt="HTML" width="100px"/> </a> 
 <a href="https://www.w3.org/Style/CSS/specs.en.html" target="_blank"> <img align="left" src="./assets/img/css-planet.png" alt="CSS" width="100px"/> </a> 
 <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank"> <img align="left" src="./assets/img/js-planet.png" alt="JS" width="100px"/> </a> 
+<a href="https://sass-lang.com" target="_blank"> <img align="left" src="./assets/img/sass-planet.png" alt="SASS" width="100px"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img align="left" src="./assets/img/bootstrap-planet.png" alt="Bootstrap" width="100px"/> </a> 
+<a href="https://angular.io" target="_blank"> <img align="left" src="./assets/img/angular-planet.png" alt="Angular" width="100px"/> </a> 
+<a href="https://es.react.dev" target="_blank"> <img align="left" src="./assets/img/react-planet.png" alt="React" width="100px"/> </a> 
 
 <br><br>
 
