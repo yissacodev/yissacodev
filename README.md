@@ -42,10 +42,10 @@ I am a versatilist developer and easily adapt to different programming areas lik
 <br><br><br><br><br><br><br>
 
 #### UI/UX Design
-<a href="www.adobe.com" target="_blank"> <img align="left" src="./assets/img/ps-pencil.png" alt="´Photoshop" width="700px"/> </a> 
-<a href="www.adobe.com" target="_blank"> <img align="left" src="./assets/img/illustrator-pencil.png" alt="Illustrator" width="700px"/> </a> 
-<a href="https://www.figma.com" target="_blank"> <img align="left" src="./assets/img/figma-pencil.png" alt="Figma" width="700px"/> </a> 
-<a href="http://www.gimp.org.es" target="_blank"> <img align="left" src="./assets/img/gimp-pencil.png" alt="GIMP" width="700px"/> </a> 
+<a href="www.adobe.com" target="_blank"> <img align="left" src="./assets/img/ps-pencil.png" alt="´Photoshop" width="260px"/> </a> 
+<a href="www.adobe.com" target="_blank"> <img align="left" src="./assets/img/illustrator-pencil.png" alt="Illustrator" width="260px"/> </a> 
+<a href="https://www.figma.com" target="_blank"> <img align="left" src="./assets/img/figma-pencil.png" alt="Figma" width="260px"/> </a> 
+<a href="http://www.gimp.org.es" target="_blank"> <img align="left" src="./assets/img/gimp-pencil.png" alt="GIMP" width="260px"/> </a> 
 
 
 ### 🧐 More About Me:
