@@ -12,43 +12,40 @@ I am a versatilist developer and easily adapt to different programming areas lik
 
 ### 🔨 Languages and Tools:
 #### Frontend
-<p style="display:flex;">
+
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img align="left" src="./assets/img/html-planet.png" alt="HTML" width="100px"/> </a> 
 <a href="https://www.w3.org/Style/CSS/specs.en.html" target="_blank"> <img align="left" src="./assets/img/css-planet.png" alt="CSS" width="100px"/> </a> 
-<a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank"> <img align="left" src="./assets/img/js-planet.png" alt="JS" width="100px"/> </a> 
+<a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank"> <img align="left" src="./assets/img/js-planet.png" alt="JS" width="100px"/></a> 
 <a href="https://sass-lang.com" target="_blank"> <img align="left" src="./assets/img/sass-planet.png" alt="SASS" width="100px"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img align="left" src="./assets/img/bootstrap-planet.png" alt="Bootstrap" width="100px"/> </a> 
 <a href="https://angular.io" target="_blank"> <img align="left" src="./assets/img/angular-planet.png" alt="Angular" width="100px"/> </a> 
 <a href="https://es.react.dev" target="_blank"> <img align="left" src="./assets/img/react-planet.png" alt="React" width="100px"/> </a> 
-</p>
 
+<br>
 
 #### Backend
-<p style="display:flex;">
 <a href="nodejs.org" target="_blank"> <img align="left" src="./assets/img/node-potion.png" alt="NodeJS" width="100px"/> </a> 
 <a href="https://spring.io" target="_blank"> <img align="left" src="./assets/img/spring-potion.png" alt="Spring" width="100px"/> </a> 
 <a href="https://www.php.net" target="_blank"> <img align="left" src="./assets/img/php-potion.png" alt="PHP" width="100px"/> </a> 
 <a href="https://laravel.com" target="_blank"> <img align="left" src="./assets/img/laravel-potion.png" alt="Laravel" width="100px"/> </a> 
-</p>
+
+<br>
 
 #### Data
-<p style="display:flex;">
 <a href="https://www.mysql.com" target="_blank"> <img align="left" src="./assets/img/mysql-dbdata.png" alt="MySql" width="100px"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img align="left" src="./assets/img/posgtres-dbdata.png" alt="PostgreSQL" width="100px"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="./assets/img/mongo-dbdata.png" alt="MongoDB" width="100px"/> </a> 
 <a href="https://redis.io" target="_blank"> <img align="left" src="./assets/img/redis-dbdata.png" alt="Redis" width="100px"/> </a> 
-</p>
 
+<br>
 
 #### UI/UX Design
-<p>
-<a href="www.adobe.com" target="_blank"> <img align="center" src="./assets/img/ps-pencil.png" alt="´Photoshop" width="260px"/> </a> 
-<a href="www.adobe.com" target="_blank"> <img align="center" src="./assets/img/illustrator-pencil.png" alt="Illustrator" width="260px"/> </a> <br>
-<a href="https://www.figma.com" target="_blank"> <img align="center" src="./assets/img/figma-pencil.png" alt="Figma" width="260px"/> </a> 
-<a href="http://www.gimp.org.es" target="_blank"> <img align="center" src="./assets/img/gimp-pencil.png" alt="GIMP" width="260px"/> </a> 
-</p>
+<a href="www.adobe.com" target="_blank"> <img align="left" src="./assets/img/ps-pencil.png" alt="´Photoshop" width="260px"/> </a> 
+<a href="www.adobe.com" target="_blank"> <img align="" src="./assets/img/illustrator-pencil.png" alt="Illustrator" width="260px"/> </a> <br>
+<a href="https://www.figma.com" target="_blank"> <img align="left" src="./assets/img/figma-pencil.png" alt="Figma" width="260px"/> </a> 
+<a href="http://www.gimp.org.es" target="_blank"> <img align="" src="./assets/img/gimp-pencil.png" alt="GIMP" width="260px"/> </a> 
 
-
+<br>
 
 ### 🧐 More About Me:
 
