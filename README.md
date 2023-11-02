@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-        <img src="./assets/img/logo-animation.png" alt="YissaCodev Logo">
+        <img src="./assets/img/logo-animation.svg" alt="YissaCodev Logo">
 </p>
 <!--
 **acosta032/acosta032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
