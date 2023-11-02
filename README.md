@@ -47,6 +47,7 @@ I am a versatilist developer and easily adapt to different programming areas lik
 <a href="https://www.figma.com" target="_blank"> <img align="left" src="./assets/img/figma-pencil.png" alt="Figma" width="260px"/> </a> 
 <a href="http://www.gimp.org.es" target="_blank"> <img align="left" src="./assets/img/gimp-pencil.png" alt="GIMP" width="260px"/> </a> 
 
+<br><br><br><br><br><br><br>
 
 ### 🧐 More About Me:
 
