@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 6083.024 921.78">
+  <defs>
+    <linearGradient id="Degradado_sin_nombre_5" data-name="Degradado sin nombre 5" x1="567.342" y1="164.892" x2="849.081" y2="694.766" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#522a9b"/>
+      <stop offset=".101" stop-color="#50309d"/>
+      <stop offset=".238" stop-color="#4d41a4"/>
+      <stop offset=".397" stop-color="#485eaf"/>
+      <stop offset=".571" stop-color="#4186be"/>
+      <stop offset=".756" stop-color="#37b8d2"/>
+      <stop offset=".911" stop-color="#2fe9e5"/>
+    </linearGradient>
+  </defs>
+  <g id="ojo">
+    <path d="m702.985,120c-165.685,0-300,134.315-300,300s134.315,300,300,300,300-134.315,300-300S868.671,120,702.985,120Zm115.38,363.578c-1.471,11.917-3.388,23.135-5.671,33.697,0,0,0,.006,0,.006v-.003c-27.727,128.261-109.708,159.322-109.708,159.322,0,0-81.981-31.061-109.708-159.322v.003s0-.006,0-.006c-2.283-10.562-4.2-21.78-5.671-33.697-6.479-28.105-19.536-63.578-44.18-63.578,26.012,0,39.53-40.918,45.63-68.005,1.208-8.096,2.618-15.872,4.211-23.333.006-.052.01-.084.01-.084v.034c27.722-129.762,109.708-165.212,109.708-165.212,0,0,81.986,35.451,109.708,165.212v-.034s.004.032.01.084c1.593,7.461,3.003,15.238,4.211,23.333,6.1,27.087,19.618,68.005,45.63,68.005-24.645,0-37.701,35.473-44.18,63.578Z" fill="url(#Degradado_sin_nombre_5)"/>
+  </g>
+  <g id="texto">
+    <g isolation="isolate">
+      <text transform="translate(1542.026 692.579)" fill="#fff" font-family="Nexa-Heavy, Nexa" font-size="805.297" font-weight="800" stroke="#1d1d1b" stroke-miterlimit="10"><tspan x="0" y="0" letter-spacing="-.025em">Y</tspan><tspan x="551.626" y="0">is</tspan><tspan x="1180.556" y="0" letter-spacing="-.007em">sa</tspan><tspan x="2088.935" y="0" letter-spacing="-.014em">C</tspan><tspan x="2644.593" y="0" letter-spacing="0em">od</tspan><tspan x="3644.762" y="0" letter-spacing="-.005em">e</tspan><tspan x="4113.446" y="0" letter-spacing="-.025em">v</tspan></text>
+    </g>
+  </g>
+</svg>

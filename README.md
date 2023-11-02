@@ -2,7 +2,9 @@
         <img src="./assets/img/hero-git.png" style="width: 100%; pointer-events:none" alt="Click to see the source">
 </div>
 
-
+<p align="center">
+        <img src="./assets/img/logo-animation.png" alt="YissaCodev Logo">
+</p>
 <!--
 **acosta032/acosta032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
