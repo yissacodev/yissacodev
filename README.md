@@ -6,8 +6,8 @@
 ## Hey 🐱, I'm Yessid Acosta! 
 I am a versatilist developer and easily adapt to different programming areas like:
 
-- Frontend developer 🌐
-- Backend developer 🤖or 
+- Frontend development 🌐
+- Backend development 🤖 
 - UI/UX Designer 🎨 (depending on what the project requires. )
 
 ### 🔨 Languages and Tools:
@@ -16,7 +16,7 @@ I am a versatilist developer and easily adapt to different programming areas lik
 #### Backend
 
 #### Data
-
+![My sql](./assets/img/mysql-dbdata.png)
 #### UI/UX Design
 
 
