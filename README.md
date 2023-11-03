@@ -76,6 +76,21 @@ I am a versatilist developer and easily adapt to different programming areas lik
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/yissacodev/count.svg"/></p>
 <p align="center"><img align="center" src="https://img.shields.io/badge/Thanks_for_visiting!-%23EC6237?style=for-the-badge"/></p>
 
+<!--
+### 📊 Github stats
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=yissacodev&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=yissacodev&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yissacodev&show_icons=true" />
+</picture>
+-->
 
 <!--
 **acosta032/acosta032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
