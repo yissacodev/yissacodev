@@ -72,7 +72,7 @@ I am a versatilist developer and easily adapt to different programming areas lik
 </p>
 
 <h3><p align="center">Total Profile Visit: since 02.11.2023</p>
-<p align="center"><img src="./assets/img/logo-animation.svg" width="100px" alt="YissaCodev Logo" align="center"/></p>
+<p align="center"><img src="./assets/img/logo-animation.svg" width="200px" alt="YissaCodev Logo" align="center"/></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/yissacodev/count.svg"/></p>
 <p align="center"><img align="center" src="https://img.shields.io/badge/Thanks_for_visiting!-%23EC6237?style=for-the-badge"/></p>
 
