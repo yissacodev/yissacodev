@@ -1,4 +1,3 @@
-<img src="./assets/img/logo-animation.svg" width="100px" alt="YissaCodev Logo" align="center">
 <div style="width: 100%;">    
         <img src="./assets/img/hero-git.png" style="width: 100%; pointer-events:none" alt="Click to see the source">
 </div>
@@ -60,17 +59,23 @@ I am a versatilist developer and easily adapt to different programming areas lik
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
         
+   [![Gmail Badge](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=yesid9523%40gmail.com)](mailto:v.yesid9523@gmail.com)
+   [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyessidacosta%2F)](https://www.linkedin.com/in/yessidacosta/)
+   [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fdribbble.com%2Fyissacodev)](http://instagram.com)
    [![Codepen Badge](https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&link=https%3A%2F%2Fcodepen.io%2Fyissacodev)](https://codepen.io/yissacodev)
    [![Codewars Badge](https://img.shields.io/badge/codewars-%23B1361E?style=for-the-badge&logo=codewars&logoColor=white&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fyissacodev)](https://www.codewars.com/users/yissacodev)
    [![Dribbble Badge](https://img.shields.io/badge/dribbble-%23EA4C89?style=for-the-badge&logo=dribbble&logoColor=white&link=https%3A%2F%2Fdribbble.com%2Fyissacodev)](https://dribbble.com/yissacodev)
-   [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fdribbble.com%2Fyissacodev)](http://instagram.com)
-   [![Gmail Badge](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=yesid9523%40gmail.com)](mailto:v.yesid9523@gmail.com)
-   [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyessidacosta%2F)](https://www.linkedin.com/in/yessidacosta/)
 
   <p align="center">
     Show ❤️ by starring and forking repositories you find good!
   </p>
 </p>
+
+<h3><p align="center">Total Profile Visit: since 02.11.2023</p>
+<p align="center"><img src="./assets/img/logo-animation.svg" width="100px" alt="YissaCodev Logo" align="center"/></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/yissacodev/count.svg"/></p>
+<p align="center"><img align="center" src="https://img.shields.io/badge/Thanks_for_visiting!-%23EC6237?style=for-the-badge"/></p>
+
 
 <!--
 **acosta032/acosta032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -86,9 +91,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ....
 -->
-
-<h3><p align="center">Total Profile Visit: since 02.11.2023</p>
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/yissacodev/count.svg"/>
-</p>
-  
