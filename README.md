@@ -56,10 +56,16 @@ I am a versatilist developer and easily adapt to different programming areas lik
 - 📚 &nbsp; In addition to programming, I also like to design small icons, banners and illustrations.
 
 ### Social Media
+
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
-
-[![Codepen Badge](https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&link=https%3A%2F%2Fcodepen.io%2Fyissacodev)](https://codepen.io/yissacodev)
+        
+   [![Codepen Badge](https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&link=https%3A%2F%2Fcodepen.io%2Fyissacodev)](https://codepen.io/yissacodev)
+   [![Codewars Badge](https://img.shields.io/badge/codewars-%23B1361E?style=for-the-badge&logo=codewars&logoColor=white&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fyissacodev)](https://www.codewars.com/users/yissacodev)
+   [![Dribbble Badge](https://img.shields.io/badge/dribbble-%23EA4C89?style=for-the-badge&logo=dribbble&logoColor=white&link=https%3A%2F%2Fdribbble.com%2Fyissacodev)](https://dribbble.com/yissacodev)
+   [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fdribbble.com%2Fyissacodev)](http://instagram.com)
+   [![Gmail Badge](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=yesid9523%40gmail.com)](mailto:v.yesid9523@gmail.com)
+   [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyessidacosta%2F)](https://www.linkedin.com/in/yessidacosta/)
 
   <p align="center">
     Show ❤️ by starring and forking repositories you find good!
