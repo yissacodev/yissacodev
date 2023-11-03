@@ -58,8 +58,27 @@ I am a versatilist developer and easily adapt to different programming areas lik
 ### Social Media
 
 <p align="center">
-  <i>Let's connect and chat! Find me on the web...</i>
-        
+   <i>Let's connect, Find me on the web...</i><br>
+   <a href="mailto:v.yesid9523@gmail.com" target="_blank"> <img  src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=yesid9523%40gmail.co" alt="Gmail"/> </a> 
+   <a href="https://www.linkedin.com/in/yessidacosta/" target="_blank"> <img  src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyessidacosta%2F" alt="Linkedin"/> </a> 
+   <a href="http://instagram.com" target="_blank"> <img  src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fdribbble.com%2Fyissacodev" alt="Instagram"/> </a> 
+   <a href="https://codepen.io/yissacodev" target="_blank"> <img  src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&link=https%3A%2F%2Fcodepen.io%2Fyissacodev" alt="Codepen"/> </a> 
+   <a href="https://www.codewars.com/users/yissacodev" target="_blank"> <img  src="https://img.shields.io/badge/codewars-%23B1361E?style=for-the-badge&logo=codewars&logoColor=white&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fyissacodev" alt="Codewars"/> </a> 
+   <a href="https://dribbble.com/yissacodev" target="_blank"> <img  src="https://img.shields.io/badge/dribbble-%23EA4C89?style=for-the-badge&logo=dribbble&logoColor=white&link=https%3A%2F%2Fdribbble.com%2Fyissacodev" alt="Dribbble"/> </a> 
+
+  <p align="center">
+    Show ❤️ by starring and forking repositories you find good!
+  </p>
+</p>
+
+---
+<h3><p align="center">Total Profile Visit: since 02.11.2023</p>
+<p align="center"><img src="./assets/img/logo-animation.svg" width="200px" alt="YissaCodev Logo" align="center"/></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/yissacodev/count.svg"/></p>
+<p align="center"><img align="center" src="https://img.shields.io/badge/Thanks_for_visiting!-%23EC6237?style=for-the-badge"/></p>
+
+<!--
+### Social
    [![Gmail Badge](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=yesid9523%40gmail.com)](mailto:v.yesid9523@gmail.com)
    [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyessidacosta%2F)](https://www.linkedin.com/in/yessidacosta/)
    [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fdribbble.com%2Fyissacodev)](http://instagram.com)
@@ -67,17 +86,6 @@ I am a versatilist developer and easily adapt to different programming areas lik
    [![Codewars Badge](https://img.shields.io/badge/codewars-%23B1361E?style=for-the-badge&logo=codewars&logoColor=white&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fyissacodev)](https://www.codewars.com/users/yissacodev)
    [![Dribbble Badge](https://img.shields.io/badge/dribbble-%23EA4C89?style=for-the-badge&logo=dribbble&logoColor=white&link=https%3A%2F%2Fdribbble.com%2Fyissacodev)](https://dribbble.com/yissacodev)
 
-  <p align="center">
-    Show ❤️ by starring and forking repositories you find good!
-  </p>
-</p>
-
-<h3><p align="center">Total Profile Visit: since 02.11.2023</p>
-<p align="center"><img src="./assets/img/logo-animation.svg" width="200px" alt="YissaCodev Logo" align="center"/></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/yissacodev/count.svg"/></p>
-<p align="center"><img align="center" src="https://img.shields.io/badge/Thanks_for_visiting!-%23EC6237?style=for-the-badge"/></p>
-
-<!--
 ### 📊 Github stats
 
 <picture>
