@@ -1,6 +1,5 @@
-<div style="width: 100%;">    
-        <img src="./assets/img/hero-git.png" style="width: 100%; pointer-events:none" alt="Click to see the source">
-</div>
+<img align="right" src="./assets/img/hero-git.png" width="425px" alt="Click to see the source">
+
 
 ## Hey 🐱, I'm Yessid Acosta! 
 I am a versatilist developer and easily adapt to different programming areas like:
@@ -8,6 +7,19 @@ I am a versatilist developer and easily adapt to different programming areas lik
 - Frontend development 🌐
 - Backend development 🤖 
 - UI/UX Designer 🎨 (depending on what the project requires. )
+  
+
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently learning Redis Database
+- 🤝 &nbsp; I’m working on a PHP CRUD of film content
+- 🌱 &nbsp; I’m currently learning SVG; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yissacodev?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech and web design related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/)
+- 📚 &nbsp; In addition to programming, I also like to design small icons, banners and illustrations.
+
 
 ### 🔨 Languages and Tools:
 #### Frontend
@@ -42,17 +54,6 @@ I am a versatilist developer and easily adapt to different programming areas lik
 <a href="https://www.figma.com" target="_blank"> <img align="left" src="./assets/img/figma-pencil.png" alt="Figma" width="25%"/> </a> 
 <a href="http://www.gimp.org.es" target="_blank"> <img  src="./assets/img/gimp-pencil.png" alt="GIMP" width="25%"/> </a> 
 
-
-### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently learning Redis Database
-- 🤝 &nbsp; I’m working on a PHP CRUD of film content
-- 🌱 &nbsp; I’m currently learning SVG; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yissacodev?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech and web design related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/)
-- 📚 &nbsp; In addition to programming, I also like to design small icons, banners and illustrations.
 
 ### Social Media
 
