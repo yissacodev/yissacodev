@@ -56,6 +56,16 @@ I am a versatilist developer and easily adapt to different programming areas lik
 - 📚 &nbsp; In addition to programming, I also like to design small icons, banners and illustrations.
 
 ### Social Media
+<p align="center">
+  <i>Let's connect and chat! Find me on the web...</i>
+
+[![Codepen Badge](https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&link=https%3A%2F%2Fcodepen.io%2Fyissacodev)](https://codepen.io/yissacodev)
+
+  <p align="center">
+    Show ❤️ by starring and forking repositories you find good!
+  </p>
+</p>
+
 <!--
 **acosta032/acosta032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -70,3 +80,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ....
 -->
+
+<h3><p align="center">Total Profile Visit: since 02.11.2023</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/yissacodev/count.svg"/>
+</p>
+  
