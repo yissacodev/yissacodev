@@ -40,9 +40,9 @@ I am a versatilist developer and easily adapt to different programming areas lik
 
 #### UI/UX Design
 <a href="www.adobe.com" target="_blank"> <img align="left" src="./assets/img/ps-pencil.png" alt="´Photoshop" width="28%"/> </a> 
-<a href="www.adobe.com" target="_blank"> <img align="" src="./assets/img/illustrator-pencil.png" alt="Illustrator" width="28%"/> </a> <br>
+<a href="www.adobe.com" target="_blank"> <img align="left" src="./assets/img/illustrator-pencil.png" alt="Illustrator" width="28%"/> </a> <br>
 <a href="https://www.figma.com" target="_blank"> <img align="left" src="./assets/img/figma-pencil.png" alt="Figma" width="28%"/> </a> 
-<a href="http://www.gimp.org.es" target="_blank"> <img align="" src="./assets/img/gimp-pencil.png" alt="GIMP" width="28%"/> </a> 
+<a href="http://www.gimp.org.es" target="_blank"> <img align="left" src="./assets/img/gimp-pencil.png" alt="GIMP" width="28%"/> </a> 
 
 ### 🧐 More About Me:
 
