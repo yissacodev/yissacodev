@@ -13,9 +13,7 @@ I am a versatilist developer and easily adapt to different programming areas lik
 
 - 🔭 &nbsp; I’m currently learning Redis Database
 - 🤝 &nbsp; I’m working on a PHP CRUD of film content
-- 🌱 &nbsp; I’m currently learning SVG; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yissacodev?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech and web design related, I am happy to help;
+- 👨🏻‍💻 &nbsp; See my projects on [Github](https://github.com/yissacodev?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/)
 - 📚 &nbsp; In addition to programming, I also like to design small icons, banners and illustrations.
@@ -54,11 +52,13 @@ I am a versatilist developer and easily adapt to different programming areas lik
 <a href="https://www.figma.com" target="_blank"> <img align="left" src="./assets/img/figma-pencil.png" alt="Figma" width="25%"/> </a> 
 <a href="http://www.gimp.org.es" target="_blank"> <img  src="./assets/img/gimp-pencil.png" alt="GIMP" width="25%"/> </a> 
 
+<!--
 ### Github stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yissacodev&count_private=true&show_icons=true&theme=dracula&line_height=33" alt="´Languajes" height="200px"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yissacodev&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10" alt="´Languajes" height="200px"/> 
 </p>
+-->
 
 
 ### Social Media
