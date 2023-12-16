@@ -12,11 +12,9 @@ I am a versatilist developer and easily adapt to different programming areas lik
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently learning Redis Database
-- 🤝 &nbsp; I’m working on a PHP CRUD of film content
 - 👨🏻‍💻 &nbsp; See my projects on [Github](https://github.com/yissacodev?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/)
-- 📚 &nbsp; In addition to programming, I also like to design small icons, banners and illustrations.
 
 
 ### 🔨 Languages and Tools:
