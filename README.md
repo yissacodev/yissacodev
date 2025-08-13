@@ -47,9 +47,11 @@ I am a versatilist developer and easily adapt to different programming areas lik
 
 
 #### UI/UX Design
+<div>
 <a href="www.adobe.com" target="_blank"> <img align="left" src="./assets/img/ps-pencil.png" alt="´Photoshop" width="25%"/> </a> 
 <a href="www.adobe.com" target="_blank"> <img align="left" src="./assets/img/illustrator-pencil.png" alt="Illustrator" width="25%"/> </a>
-<a href="https://www.figma.com" target="_blank"> <img align="left" src="./assets/img/figma-pencil.png" alt="Figma" width="25%"/> </a> 
+<a href="https://www.figma.com" target="_blank"> <img align="left" src="./assets/img/figma-pencil.png" alt="Figma" width="25%"/> </a> <br>
+</div>
 
 
 <!--
@@ -61,9 +63,10 @@ I am a versatilist developer and easily adapt to different programming areas lik
 -->
 
 
-### Social Media
 
-<p align="center"><i>Let's connect, Find me on the web...</i></p>
+#### Social Media
+<div>
+  <p align="center"><i>Let's connect, Find me on the web...</i></p>
 <p align="center">
    <a href="mailto:v.yissacodev@gmail.com" target="_blank"> <img  src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=yesid9523%40gmail.co" alt="Gmail"/> </a> 
    <a href="https://www.linkedin.com/in/yessidacosta/" target="_blank"> <img  src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyessidacosta%2F" alt="Linkedin"/> </a> 
@@ -76,6 +79,8 @@ I am a versatilist developer and easily adapt to different programming areas lik
     Show ❤️ by starring and forking repositories you find good!
   </p>
 </p>
+
+</div>
 
 ---
 <h3><p align="center">Total Profile Visit: since 02.11.2023</p>
