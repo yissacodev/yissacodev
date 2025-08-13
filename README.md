@@ -1,4 +1,4 @@
-## <img align="right" src="./assets/img/hero-git.png" width="425px" alt="Click to see the source">
+<!-- <img align="right" src="./assets/img/hero-git.png" width="425px" alt="Click to see the source"> -->
 
 
 ## Hey 🐱, I'm Yessid Acosta! 
